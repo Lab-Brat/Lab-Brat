@@ -68,10 +68,20 @@
 ## Connect With Me
 
 <p align="left">
+  <a href="https://www.github.com/Lab-Brat" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/github.svg" alt="github" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/Lab__Brat" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lab__Brat" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/stepan-kulikov-v/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stepan-kulikov-v" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/stepan-kulikov-v/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+  <a href="https://t.me/Lab_Brat" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" alt="telegram" height="30" width="40" />
+  </a>
+  <a href="mailto:kulikov.stepan.v@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+</p>
 <br>
