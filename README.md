@@ -5,10 +5,10 @@
 ## A Bit About Me
 
 * I am fluent in Python 🐍, RHCSA in Linux 🐧, Learning Rust 🦀
-* I grew up in China, and spent most of my life there. But now I am digital nomad.
-* I have a degree in Metallurgical Engineering form Shanghai University (Super Userful)
+* I grew up in China, and spent most of my life there. But now I am a digital nomad.
+* I have a degree in Metallurgical Engineering form Shanghai University (Super Useful).
 * I am a cat parent (How could you not be??)
-* I post my code on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
+* I post my code and some linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
 ## Things I code on Github
 * All kinds of things on Python, like [Bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/lichess), [Algorithms](https://github.com/Lab-Brat/tsp), silly [Automation](https://github.com/Lab-Brat/autocommitter) stuff, [web-apps](https://github.com/Lab-Brat/flask_masque).
@@ -54,20 +54,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/Lab__Brat" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lab__Brat" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/stepan-kulikov-v/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stepan-kulikov-v" height="30" width="40" />
+  </a>
 <br>
-
-
-<!--
-**Lab-Brat/Lab-Brat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
