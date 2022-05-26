@@ -15,9 +15,49 @@
 * Automation stuff in Linux, like Ansible playbooks, Vagrantfiles, Bash scripts etc., those are all grouped [here](https://github.com/Lab-Brat/linux_scripts).
 * Hackathon [problems](https://github.com/Lab-Brat/RED_OS_Welcome).
 
+## My Stack
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> 
+  </a> 
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.ansible.com" target="_blank"> 
+    <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" alt="ansible" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jenkins.io"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="30" height="40"/> 
+  </a> 
+  <a href="https://www.vagrantup.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="vagrant" width="45" height="45"/> 
+  </a> 
+  <a href="https://www.docker.com"> 
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="55" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+</p>
+<br>
+
 
 <!--
-Me Stack:
 **Lab-Brat/Lab-Brat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
