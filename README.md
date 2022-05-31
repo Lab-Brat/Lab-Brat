@@ -44,6 +44,9 @@
   <a href="https://www.docker.com"> 
     <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="55" height="40"/> 
   </a> 
+  <a href="https://cloud.google.com/">
+    <img src="https://brandeps.com/icon-download/G/Google-cloud-platform-icon-vector-02.svg" alt="gcp width="40" height="40"/"
+  </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
   </a>
