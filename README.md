@@ -36,7 +36,7 @@
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/ansible.svg" alt="ansible" width="40" height="40"/> 
   </a> 
   <a href="https://www.jenkins.io"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/jenkins.png" alt="jenkins" width="39" height="45"/> 
+    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/jenkins.png" alt="jenkins" width="35" height="45"/> 
   </a> 
   <a href="https://www.vagrantup.com/" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/vagrant.svg" alt="vagrant" width="40" height="40"/> 
