@@ -4,10 +4,10 @@
 
 ## A Bit About Me
 
-* I am fluent in Python 🐍, RHCSA in Linux 🐧, Learning Rust 🦀 and DevOps ♻
+* I am fluent in Python 🐍, RHCSA in Linux 🐧, Learning DevOps/SRE ♻ and all kinds of other stuff.
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
 * I grew up in China, and spent most of my life there. But now I am a digital nomad.
-* I have a degree in Metallurgical Engineering form Shanghai University (Super Useful).
+* I have a degree in Metallurgical Engineering form Shanghai University (Super "Useful").
 * I am a cat parent (How could you not be??)
 * I post my code and some linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
