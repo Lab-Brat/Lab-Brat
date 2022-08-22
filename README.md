@@ -9,7 +9,7 @@
 * I grew up in China, and spent most of my life there. But now I am a digital nomad.
 * I have a degree in Metallurgical Engineering form Shanghai University (Super "Useful").
 * I am a cat parent (How could you not be??)
-* I post my code and some linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
+* I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
 ## Things I host on Github
 * All kinds of things on Python, like [Bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/lichess), [Algorithms](https://github.com/Lab-Brat/tsp), silly [Automation](https://github.com/Lab-Brat/autocommitter) stuff, [web-apps](https://github.com/Lab-Brat/flask_masque).
