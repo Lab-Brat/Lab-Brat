@@ -16,6 +16,7 @@
 * Automation stuff in Linux, like Ansible playbooks, Vagrantfiles, Bash scripts etc., those are all grouped [here](https://github.com/Lab-Brat/linux_scripts).
 * Linux CLI apps in Rust, like the one [here](https://github.com/Lab-Brat/ego).
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics.
+* Notes and exercies from texbooks or tutorials.
 * Hackathon [problems](https://github.com/Lab-Brat/RED_OS_Welcome).
 
 ## My Stack
