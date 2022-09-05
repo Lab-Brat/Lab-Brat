@@ -1,4 +1,4 @@
-<h1 align="center">🐀 Hello Eveyone! I'm Lab-Brat </h1>
+<h1 align="center"> Hello Eveyone! I'm Stepan K. </h1>
 
 <h3 align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
 
