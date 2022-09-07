@@ -27,6 +27,9 @@
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/rust.svg" alt="rust" width="40" height="40"/>
   </a>
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/c.png" alt="c" width="40" height="43"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/bash.svg" alt="bash" width="40" height="40"/> 
   </a>
