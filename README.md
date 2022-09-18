@@ -12,7 +12,7 @@
 * I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
 ## Things I host on Github
-* All kinds of things on Python, like [Bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/lichess), [Algorithms](https://github.com/Lab-Brat/tsp), silly [Automation](https://github.com/Lab-Brat/autocommitter) stuff, [web-apps](https://github.com/Lab-Brat/flask_masque).
+* All kinds of things in Python, like [Bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/lichess), [Algorithms](https://github.com/Lab-Brat/tsp), silly [Automation](https://github.com/Lab-Brat/autocommitter) stuff, [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
 * Automation stuff in Linux, like Ansible playbooks, Vagrantfiles, Bash scripts etc., those are all grouped [here](https://github.com/Lab-Brat/linux_scripts).
 * Linux CLI apps in Rust, like the one [here](https://github.com/Lab-Brat/ego).
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics.
