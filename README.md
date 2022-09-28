@@ -13,7 +13,7 @@
 
 ## Things I host on Github
 * All kinds of things in Python, like [Bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/lichess), [Algorithms](https://github.com/Lab-Brat/tsp), silly [Automation](https://github.com/Lab-Brat/autocommitter) stuff, [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
-* Automation stuff in Linux, like [Dockerized services](https://github.com/Lab-Brat/rsyslog_server), Ansible playbooks, Vagrantfiles, Bash scripts etc., most of those are grouped [here](https://github.com/Lab-Brat/linux_scripts).
+* Automation stuff in Linux, like Dockerized [services](https://github.com/Lab-Brat/rsyslog_server), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash scripts etc., most of those are grouped [here](https://github.com/Lab-Brat/linux_scripts).
 * Linux CLI apps in Rust, like the one [here](https://github.com/Lab-Brat/ego).
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics.
 * [Notes](https://github.com/Lab-Brat/c_exercises) and exercies from texbooks or tutorials.
