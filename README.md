@@ -1,13 +1,13 @@
-<h1 align="center"> Hello Eveyone! I'm Stepan K. </h1>
+<h1 align="center"> Hello Everyone! I'm Stepan K. </h1>
 
 <h3 align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
 
 ## A Bit About Me
 
-* I am fluent in Python 🐍, RHCSA in Linux 🐧, Learning DevOps/SRE ♻ and all kinds of other stuff.
+* I am fluent in Python 🐍, RHCSA in Linux 🐧, DevOps/SRE practitioner ♻ and all kinds of other stuff.
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
 * I grew up in China, and spent most of my life there. But now I am a digital nomad.
-* I have a degree in Metallurgical Engineering form Shanghai University (Super "Useful").
+* I have a degree in Metallurgical Engineering from Shanghai University (Super "Useful").
 * I am a cat parent (How could you not be??)
 * I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
@@ -16,7 +16,7 @@
 * Automation stuff in Linux, like Dockerized [services](https://github.com/Lab-Brat/rsyslog_server), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash scripts etc., most of those are grouped [here](https://github.com/Lab-Brat/linux_scripts).
 * Linux CLI apps in Rust, like the one [here](https://github.com/Lab-Brat/ego).
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics.
-* [Notes](https://github.com/Lab-Brat/c_exercises) and exercies from texbooks or tutorials.
+* [Notes](https://github.com/Lab-Brat/c_exercises) and exercises from textbooks or tutorials.
 * Hackathon [problems](https://github.com/Lab-Brat/RED_OS_Welcome).
 
 ## My Stack
