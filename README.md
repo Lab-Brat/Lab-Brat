@@ -90,7 +90,7 @@
   <a href="https://t.me/Lab_Brat" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/telegram.svg" alt="telegram" height="30" width="40" />
   </a>
-  <a href="mailto:kulikov.stepan.v@gmail.com" target="_blank">
+  <a href="mailto:labbrat_social@pm.me" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
