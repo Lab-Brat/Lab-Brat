@@ -42,6 +42,9 @@
   <a href="https://www.jenkins.io"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/jenkins.png" alt="jenkins" width="35" height="45"/> 
   </a> 
+  <a href="https://github.com/features/actions"> 
+    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/github_actions.svg" alt="jenkins" width="40" height="40"/> 
+  </a> 
   <a href="https://www.vagrantup.com/" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/vagrant.svg" alt="vagrant" width="40" height="40"/> 
   </a> 
@@ -54,6 +57,9 @@
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> 
   </a>
+  <a href="https://nginx.org" target="_blank"> 
+    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/nginx.svg" alt="postgresql" width="45" height="45"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -62,6 +68,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/css.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <a href="https://gohugo.io" target="_blank"> 
+    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/hugo.svg" alt="css3" width="40" height="40"/> 
   </a>
 </p>
 
