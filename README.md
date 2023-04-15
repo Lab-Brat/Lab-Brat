@@ -9,6 +9,7 @@
 * I grew up in China, and spent most of my life there. But now I am a digital nomad.
 * I have a degree in Metallurgical Engineering from Shanghai University (Super "Useful").
 * I am a cat parent (How could you not be??)
+* I write about tech on my website: [labbrat.net](https://labbrat.net)
 * I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 
 ## Things I host on Github
