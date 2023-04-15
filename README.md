@@ -21,57 +21,9 @@
 * Hackathon [problems](https://github.com/Lab-Brat/RED_OS_Welcome).
 
 ## My Stack
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/python.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/rust.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/bash.svg" alt="bash" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/linux.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/git.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ansible.com" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/ansible.svg" alt="ansible" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/jenkins.png" alt="jenkins" width="35" height="45"/> 
-  </a> 
-  <a href="https://github.com/features/actions"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/github_actions.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.vagrantup.com/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/vagrant.svg" alt="vagrant" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/docker.svg" alt="docker" width="50" height="50"/> 
-  </a> 
-  <a href="https://cloud.google.com/">
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/gcp.svg" alt="gcp width="40" height="40"/"
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://nginx.org" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/nginx.svg" alt="postgresql" width="45" height="45"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/html.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/css.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://gohugo.io" target="_blank"> 
-    <img src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/hugo.svg" alt="css3" width="40" height="40"/> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,bash,rust,git,ansible,jenkins,githubactions,gitlab,docker,gcp,aws,postgres,cloudflare,nginx,js,html,css&perline=9" />
   </a>
 </p>
 
