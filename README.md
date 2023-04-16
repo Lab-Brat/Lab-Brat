@@ -1,6 +1,8 @@
 <h1 align="center"> Hello Everyone! I'm Stepan K. </h1>
 
 <h3 align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 
 ## A Bit About Me
 
@@ -28,14 +30,23 @@
 </p>
 
 ## &#x1f4c8; GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lab-Brat&show_icons=true&include_all_commits=true&show_icons=true&theme=swift&hide_border=true" alt=Lab-Brat's github stats" height="200" /></a>
+    </td>
+    <td>
+      <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lab-Brat&layout=compact&langs_count=8&count_private=true&theme=swift&hide_border=true" height="200"/></a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/Lab-Brat">
-    <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Lab-Brat&include_all_commits=true&count_private=true&show_icons=true&theme=swift" />
-  </a>
-  <a href="https://github.com/Lab-Brat">
-    <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lab-Brat&langs_count=8&layout=compact&theme=swift" />
-  </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lab-Brat&&hide_border=true" />
 </p>
+<br>
+
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 ## Connect With Me
 
