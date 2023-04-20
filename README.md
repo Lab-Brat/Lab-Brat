@@ -6,7 +6,7 @@
 
 ## A Bit About Me
 
-* I am fluent in Python 🐍, RHCSA in Linux 🐧, DevOps/SRE practitioner ♻ and all kinds of other stuff.
+* My main passion is Linux 🐧, but I aso code in Python 🐍 and love DevOps/SRE ♻ stuff.
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
 * I grew up in China, and spent most of my life there. But now I am a digital nomad.
 * I have a degree in Metallurgical Engineering from Shanghai University (Super "Useful").
