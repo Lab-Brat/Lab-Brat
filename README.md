@@ -8,7 +8,7 @@
 
 * My main passion is GNU/Linux 🐧, but I aso code in Python 🐍 and love DevOps/SRE ♻ stuff.
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
-* I grew up in China and spent most of my life there. But now I am a digital nomad.
+* I grew up in China and spent most of my life there. Now I am a digital nomad.
 * I have a degree in Metallurgical Engineering from Shanghai University.
 * I am a cat parent (How could you not be??)
 * I write about tech on my website: [labbrat.net](https://labbrat.net)
