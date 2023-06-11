@@ -10,7 +10,7 @@
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
 * I grew up in China and spent most of my life there. Now I am a digital nomad.
 * I have a degree in Metallurgical Engineering from Shanghai University.
-* I am a cat parent (How could you not be??)
+* I am a proud parent of the cutest cat in the world named Cinnabon.
 * I write about tech on my website: [labbrat.net](https://labbrat.net)
 * I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 * I am participating in 2023 Google Summer of Code in [Gentoo community](https://blogs.gentoo.org/gsoc/2023/05/05/gentoo-google-summer-of-code-gsoc-for-2023/)
