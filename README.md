@@ -26,7 +26,7 @@
 ## My Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,bash,rust,git,ansible,jenkins,githubactions,gitlab,docker,gcp,aws,postgres,cloudflare,nginx,js,html,css&perline=9" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,py,bash,rust,git,ansible,jenkins,githubactions,github,gitlab,kubernetes,docker,gcp,aws,postgres,cloudflare,nginx,flutter,js,html,css&perline=11" />
   </a>
 </p>
 
