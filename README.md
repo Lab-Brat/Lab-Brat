@@ -13,7 +13,7 @@
 * I am a proud parent of the cutest cat in the world named Cinnabon.
 * I write about tech on my website: [labbrat.net](https://labbrat.net)
 * I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
-* I am participating in 2023 Google Summer of Code in [Gentoo community](https://blogs.gentoo.org/gsoc/2023/05/05/gentoo-google-summer-of-code-gsoc-for-2023/)
+* I participated in [2023 Google Summer of Code](https://summerofcode.withgoogle.com/programs/2023/projects/GeVkDHOA) in [Gentoo community](https://blogs.gentoo.org/gsoc/2023/08/27/final-report-automated-gentoo-system-updater/)
 
 ## Things I host on Github
 * All kinds of things in Python, like [bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/shell_notes), [algorithms](https://github.com/Lab-Brat/tsp), SysOps tools ([monitoring](https://github.com/Lab-Brat/pyLookout)), [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
