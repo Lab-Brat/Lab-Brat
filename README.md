@@ -17,10 +17,8 @@
 
 ## Things I host on Github
 * All kinds of things in Python, like [bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/shell_notes), [algorithms](https://github.com/Lab-Brat/tsp), SysOps tools ([monitoring](https://github.com/Lab-Brat/pyLookout)), [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
-* Automation stuff in Linux, like cloud-native infrastructure services ([logging](https://github.com/Lab-Brat/rsyslog_server)), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash [scripts](https://github.com/Lab-Brat/linux_scripts) etc.
-* [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics that are also available via an [API](https://github.com/Lab-Brat/shell_notes).
-* [Notes](https://github.com/Lab-Brat/c_exercises) and exercises from textbooks or tutorials.
-* Hackathon [problems](https://github.com/Lab-Brat/RED_OS_Welcome).
+* Automation stuff in Linux, like Gentoo Linux [updater](https://github.com/Lab-Brat/gentoo_update), cloud-native infrastructure services ([logging](https://github.com/Lab-Brat/rsyslog_server)), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash [scripts](https://github.com/Lab-Brat/linux_scripts) etc.
+* [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics that are also available via a public [API](https://github.com/Lab-Brat/shell_notes).
 
 ## My Stack
 <p align="center">
