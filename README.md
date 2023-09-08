@@ -1,7 +1,7 @@
 <h1 align="center"> Hello Everyone! I'm Stepan</h1>
 
 <h3 align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<p><a href="https://labbrat.net/blog/rainbow/"><img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/></a></p>
 
 
 ## A Bit About Me
@@ -44,7 +44,7 @@
 </p>
 <br>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<p><a href="https://labbrat.net/blog/rainbow/"><img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/></a></p>
 
 ## Connect With Me
 
