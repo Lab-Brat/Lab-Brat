@@ -39,11 +39,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lab-Brat&&hide_border=true" />
-</p>
-<br>
-
 <p><a href="https://labbrat.net/blog/rainbow/"><img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/></a></p>
 
 ## Connect With Me
