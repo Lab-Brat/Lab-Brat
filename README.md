@@ -12,7 +12,6 @@
 * I have a degree in Metallurgical Engineering from Shanghai University.
 * I am a proud parent of the cutest cat in the world named Cinnabon.
 * I write about tech on my website: [labbrat.net](https://labbrat.net)
-* I post my code and some Linux stuff on Twitter [@Lab__Brat](https://twitter.com/Lab__Brat)
 * I participated in [2023 Google Summer of Code](https://summerofcode.withgoogle.com/programs/2023/projects/GeVkDHOA) in [Gentoo community](https://blogs.gentoo.org/gsoc/2023/08/27/final-report-automated-gentoo-system-updater/)
 
 ## Things I host on Github
