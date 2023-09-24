@@ -1,10 +1,10 @@
-<h1 align="center"> Hello Everyone! I'm Stepan</h1>
+<h1 style="color:black;" align="center"> Hello Everyone! I'm Stepan</h1>
+<h3 style="color:black;" align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
 
-<h3 align="center"> I'm a self-taught Linux Engineer and a Developer </h3>
 <p><a href="https://labbrat.net/blog/rainbow/"><img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/></a></p>
 
 
-## A Bit About Me
+<h3 style="color:black;"> A Bit About Me </h3>
 
 * My main passion is GNU/Linux 🐧, but I also code in Python 🐍 and love DevOps/SRE ♻ stuff.
 * I work as an Infrastructure Support Engineer (Sysadmin + Support + DevOps).
@@ -14,19 +14,25 @@
 * I write about tech on my website: [labbrat.net](https://labbrat.net)
 * I participated in [2023 Google Summer of Code](https://summerofcode.withgoogle.com/programs/2023/projects/GeVkDHOA) in [Gentoo community](https://blogs.gentoo.org/gsoc/2023/08/27/final-report-automated-gentoo-system-updater/)
 
-## Things I host on Github
+
+<h3 style="color:black;"> Things I host on Github </h3>
+
 * All kinds of things in Python, like [bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/shell_notes), [algorithms](https://github.com/Lab-Brat/tsp), SysOps tools ([monitoring](https://github.com/Lab-Brat/pyLookout)), [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
 * Automation stuff in Linux, like Gentoo Linux [updater](https://github.com/Lab-Brat/gentoo_update), cloud-native infrastructure services ([logging](https://github.com/Lab-Brat/rsyslog_server)), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash [scripts](https://github.com/Lab-Brat/linux_scripts) etc.
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics that are also available via a public [API](https://github.com/Lab-Brat/shell_notes).
 
-## My Stack
+
+<h3 style="color:black;"> My Stack </h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,vim,py,bash,rust,git,ansible,jenkins,githubactions,github,gitlab,kubernetes,docker,gcp,aws,postgres,cloudflare,nginx,flutter,js,html,css&perline=11" />
   </a>
 </p>
 
-## &#x1f4c8; GitHub Stats
+
+<h3 style="color:black;"> &#x1f4c8; GitHub Stats </h3>
+
 <table align="center">
   <tr>
     <td>
@@ -40,7 +46,8 @@
 
 <p><a href="https://labbrat.net/blog/rainbow/"><img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/></a></p>
 
-## Connect With Me
+
+<h3 style="color:black;"> Connect With Me </h3>
 
 <p align="left">
   <a href="https://www.github.com/Lab-Brat" target="_blank">
