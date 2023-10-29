@@ -51,13 +51,13 @@
 
 <p align="left">
   <a href="https://www.github.com/Lab-Brat" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/github.svg" alt="github" height="30" width="40" />
+    <img align="center" src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/GitHub.svg" alt="github" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/stepan-kulikov-v/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/LinkedIn.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:labbrat_social@pm.me" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://github.com/Lab-Brat/Lab-Brat/blob/main/icons/MailHeart.png" alt="mail" height="30" width="35" />
   </a>
 </p>
 <br>
