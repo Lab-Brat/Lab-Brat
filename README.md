@@ -18,7 +18,8 @@
 <h3 style="color:black;"> Things I host on Github </h3>
 
 * All kinds of things in Python, like [bots](https://github.com/Lab-Brat/pebbles_bot), [APIs](https://github.com/Lab-Brat/shell_notes), [algorithms](https://github.com/Lab-Brat/tsp), SysOps tools ([monitoring](https://github.com/Lab-Brat/pyLookout)), [web-apps](https://github.com/Lab-Brat/flask_masque) and much more.
-* Automation stuff in Linux, like Gentoo Linux [updater](https://github.com/Lab-Brat/gentoo_update), cloud-native infrastructure services ([logging](https://github.com/Lab-Brat/rsyslog_server)), Ansible [playbooks](https://github.com/Lab-Brat/ansible), Vagrantfiles, Bash [scripts](https://github.com/Lab-Brat/linux_scripts) etc.
+* Automation stuff in Linux, like Gentoo Linux [updater](https://github.com/Lab-Brat/gentoo_update) and [scripts](https://github.com/Lab-Brat/linux_scripts) to improve workflow.
+* Infrastructure services deployment with Ansbile and Terraform, like Wireguard VPN [server](https://github.com/Lab-Brat/wireguard-nginx) and rsyslog [logger](https://github.com/Lab-Brat/rsyslog_server).
 * [Cheat sheets](https://github.com/Lab-Brat/cheatsheets) on a variety of different topics that are also available via a public [API](https://github.com/Lab-Brat/shell_notes).
 
 
